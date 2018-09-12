@@ -34,3 +34,13 @@ body {
 #subtitulo {
     /* parte de contacto, redes sociales y frase */
 }
+
+footer {
+    background-color: #E6E6E6;
+    position: absolute;
+    width: 100%;
+    color: #FFFFFF;
+    bottom: 0px;
+    text-align: left;
+    padding: 2em 1em;
+}
