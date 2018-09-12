@@ -1,1 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
 
+body {
+    margin: 0 auto;
+    color: #000000;
+    font-face: 'Lato', sans-serif;
+    font-size: 12pt;
+}
+
+#cabecera {
+    background-color: #85D4B7;
+    width: 100%;
+    padding: 2em 1em;
+}
+
+.item-cabecera {
+    width: 50px;
+    color: #FFFFFF;
+}
+
+.logo {
+    text-align: left;
+}
+
+.nav {
+    text-align: center;
+}
+
+#carrusel-container {
+    background-color: #6DCCAA;
+    width: 100%;
+}
+
+#subtitulo {
+    /* parte de contacto, redes sociales y frase */
+}
